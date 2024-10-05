@@ -30,11 +30,12 @@ This project is a single-page application (SPA) built with **React**, **Next.js*
     Edit `.env.local` file in the root of the project, the following variables:
     
     `NEXT_PUBLIC_DOTCMS_HOST=https://demo.dotcms.com`
+
     `NEXT_PUBLIC_DOTCMS_AUTH_TOKEN=your-auth-token-here`
     
     Replace `your-auth-token-here` with the actual dotCMS demo site token you received.
     
-5.  **Run the Development Server:**
+6.  **Run the Development Server:**
 
     `npm run dev` 
     
@@ -42,7 +43,7 @@ This project is a single-page application (SPA) built with **React**, **Next.js*
     
     `yarn dev` 
     
-6.  **Open the Application:**
+7.  **Open the Application:**
     
     Navigate to [http://localhost:3000](http://localhost:3000) in your browser to view the application.
     
