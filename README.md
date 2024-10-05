@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/4ff0617a-9202-4232-a834-5107ebef9f71)
 # Technical Demo Challenge
 
 This project is a single-page application (SPA) built with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. It utilizes **Axios** for API calls to the dotCMS demo site and is designed to demonstrate the capability to list and display blog content, alongside product promotions.
@@ -28,10 +28,10 @@ This project is a single-page application (SPA) built with **React**, **Next.js*
     
 4.  **Set Up Environment Variables:**
     
-    Create a `.env.local` file in the root of your project with the following variables:
+    Edit `.env.local` file in the root of the project, the following variables:
     
-    `NEXT_PUBLIC_DOTCMS_HOST=https://demo.dotcms.com 
-    NEXT_PUBLIC_DOTCMS_AUTH_TOKEN=your-auth-token-here`
+    `NEXT_PUBLIC_DOTCMS_HOST=https://demo.dotcms.com`
+    `NEXT_PUBLIC_DOTCMS_AUTH_TOKEN=your-auth-token-here`
     
     Replace `your-auth-token-here` with the actual dotCMS demo site token you received.
     
@@ -50,21 +50,8 @@ This project is a single-page application (SPA) built with **React**, **Next.js*
 
 ### Project Structure
 
-src/
-│
-├── components/
-│   ├── Banner.tsx          # Carousel component for banner display
-│   ├── Navigation.tsx      # Top navigation component using dotCMS API
-│   ├── ProductPromo.tsx    # Product promotions component displaying products
-│
-├── pages/
-│   ├── index.tsx           # Home page listing blogs with links
-    └── blog/
-│       └── [slug].tsx          # Dynamic page for individual blog post details
-│
-└── utils/
-    ├── axiosClient.ts      # Axios client configuration
-    └── env.d.ts            # Environment variable type definitions
+![image](https://github.com/user-attachments/assets/4b057514-5169-4e01-b006-b6b84eea038d)
+
 
 ### Key Features
 
