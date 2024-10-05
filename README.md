@@ -1,7 +1,7 @@
 
-# React Blog and Promo Application
+# Technical Demo Challenge
 
-This project is a single-page application (SPA) built with **Next.js**, **TypeScript**, and **Tailwind CSS**. It utilizes **Axios** for API calls to the dotCMS demo site and is designed to demonstrate the capability to list and display blog content, alongside product promotions.
+This project is a single-page application (SPA) built with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. It utilizes **Axios** for API calls to the dotCMS demo site and is designed to demonstrate the capability to list and display blog content, alongside product promotions.
 
 ## Getting Started
 
