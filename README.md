@@ -14,8 +14,8 @@ This project is a single-page application (SPA) built with **React**, **Next.js*
 
 1.  **Clone the Repository:**
     
-    `git clone https://github.com/your-username/your-repo-name.git`
-    `cd your-repo-name` 
+    `git clone https://github.com/teo2001-repos/dotcms-solutions-architect-teo.git`
+    `cd dotcms-solutions-architect-teo.git` 
     
 2.  **Install Dependencies:**
 
@@ -49,7 +49,7 @@ This project is a single-page application (SPA) built with **React**, **Next.js*
 
 ### Project Structure
 
-`src/
+src/
 │
 ├── components/
 │   ├── Banner.tsx          # Carousel component for banner display
@@ -63,7 +63,7 @@ This project is a single-page application (SPA) built with **React**, **Next.js*
 │
 └── utils/
     ├── axiosClient.ts      # Axios client configuration
-    └── env.d.ts            # Environment variable type definitions` 
+    └── env.d.ts            # Environment variable type definitions
 
 ### Key Features
 
@@ -94,4 +94,4 @@ One of the main challenges was working on the project while traveling to visit t
 
 1.  Navigate to the homepage to see a list of available blogs.
 2.  Click on a blog link to view its detailed content.
-3.  Browse through the product promotions section to view various products.# React Blog and Promo Application
+3.  Browse through the product promotions section to view various products.
