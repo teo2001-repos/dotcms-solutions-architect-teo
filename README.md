@@ -15,9 +15,10 @@ This project is a single-page application (SPA) built with **React**, **Next.js*
 1.  **Clone the Repository:**
     
     `git clone https://github.com/teo2001-repos/dotcms-solutions-architect-teo.git`
+    
     `cd dotcms-solutions-architect-teo.git` 
     
-2.  **Install Dependencies:**
+3.  **Install Dependencies:**
 
     `npm install` 
     
