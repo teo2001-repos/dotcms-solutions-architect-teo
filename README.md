@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4ff0617a-9202-4232-a834-5107ebef9f71)
 # Technical Demo Challenge
 
 This project is a single-page application (SPA) built with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. It utilizes **Axios** for API calls to the dotCMS demo site and is designed to demonstrate the capability to list and display blog content, alongside product promotions.
